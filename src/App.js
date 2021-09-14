@@ -4,23 +4,28 @@ import "./styles.css";
 const songsDictionary = {
   "Arijit Singh": [
     { Song: "Tujhe Kitna Chahne Lage Hum", Movie: "kabir Singh" },
-    { Song: "Jaan Nissar", Movie: "Kedarnath" }
+    { Song: "Jaan Nissar", Movie: "Kedarnath" },
+    { Song: "Ek tu hi yar mera", Movie: "Pati patni aur woh" }
   ],
   "Shreya Ghosal": [
     { Song: "Yeh Ishq Hai", Movie: "Jab We Met" },
-    { Song: "Hasi", Movie: "Hamari Adhuri Kahani" }
+    { Song: "Hasi", Movie: "Hamari Adhuri Kahani" },
+    { Song: "Teri meri", Movie: "Bodyguard" }
   ],
   "Sanam Puri": [
     { Song: "Yeh raat bheegi bheegi", Movie: "Chori Chori" },
-    { Song: "Hai apna dil to awara", Movie: "Solva Saal" }
+    { Song: "Hai apna dil to awara", Movie: "Solva Saal" },
+    { Song: "Lag jaa gale", movie: "Woh jo hasina" }
   ],
   Avicii: [
     { Song: "The nights", Movie: "" },
-    { Song: "I could be the one", Movie: "" }
+    { Song: "I could be the one", Movie: "" },
+    { Songs: "The day", Movie: "" }
   ],
   "Ellie Goulding": [
     { Song: "Love me like you do", Movie: "50 Shades of Grey" },
-    { Song: "I know you care", Movie: "Now Is Good" }
+    { Song: "I know you care", Movie: "Now Is Good" },
+    { Song: "Beating Heart", Movie: "Halcyon Days" }
   ]
 };
 
