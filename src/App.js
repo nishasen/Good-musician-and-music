@@ -15,7 +15,7 @@ const songsDictionary = {
   "Sanam Puri": [
     { Song: "Yeh raat bheegi bheegi", Movie: "Chori Chori" },
     { Song: "Hai apna dil to awara", Movie: "Solva Saal" },
-    { Song: "Lag jaa gale", movie: "Woh jo hasina" }
+    { Song: "Lag jaa gale", Movie: "Woh jo hasina" }
   ],
   Avicii: [
     { Song: "The nights", Movie: "" },
